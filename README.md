@@ -6,7 +6,7 @@ Application of online coffee shop.
 - Spring boot web;
 - Spring boot data jpa;
 - Lombok;
-- Database: postgresql
+- Database: postgresql.
 # Entities
 ![alt text](https://github.com/Hoppering/CoffeeShop/blob/master/coffee.png)
 
