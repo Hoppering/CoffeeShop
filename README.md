@@ -5,7 +5,8 @@ Application of online coffee shop.
 # Dependencies
 - Spring boot web;
 - Spring boot data jpa;
-- Lombok.
+- Lombok;
+- Database: postgresql
 # Entities
 ![alt text](https://github.com/Hoppering/CoffeeShop/blob/master/coffee.png)
 
