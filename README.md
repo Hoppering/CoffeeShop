@@ -8,7 +8,7 @@ Application of online coffee shop.
 - Lombok;
 - Database: postgresql.
 # Entities
-![alt text](https://github.com/Hoppering/CoffeeShop/blob/master/coffee.svg)
+![alt text](https://github.com/Hoppering/CoffeeShop/blob/master/coffee.png)
 
 # Controllers 
 In application we have 3 controllers:
